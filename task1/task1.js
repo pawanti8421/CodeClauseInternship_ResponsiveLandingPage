@@ -44,7 +44,7 @@ function carousel() {
   myIndex++;
   if (myIndex > x.length) {myIndex = 1}    
   x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 6000);
+  setTimeout(carousel, 2000);
 }
 
 
