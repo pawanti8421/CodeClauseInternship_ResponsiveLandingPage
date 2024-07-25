@@ -15,10 +15,13 @@ Customer Reviews: Testimonial sections display customer feedback, enhancing cred
 Subscription Form: A newsletter subscription form allows users to stay updated with the latest news and offers.
 
 
+
 Technologies Used
 
 HTML: Provides the structural framework of the landing page, ensuring semantic and accessible markup.
+
 CSS: Styles the page with a responsive layout, including media queries, flexbox, and grid layout techniques.
+
 JavaScript: Adds interactivity to the countdown timer and potentially other dynamic elements on the page.
 
 
