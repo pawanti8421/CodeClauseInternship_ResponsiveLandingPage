@@ -1,5 +1,5 @@
 
-let countDownDate = new Date("Oct15, 2024 15:37:25").getTime();
+let countDownDate = new Date("Oct 15, 2024 15:37:25").getTime();
 
 
 let x = setInterval(function() {
